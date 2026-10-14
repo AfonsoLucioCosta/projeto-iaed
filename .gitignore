@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# Compiled program and debug output
+/proj
+/project
+/project.c.zip
+*.o
+*.dSYM/
+
+# Extracted tests and their generated results
+/public-tests/
+/tp1/
